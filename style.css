@@ -148,6 +148,16 @@ body {
     cursor: pointer;
 }
 
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    font-size: 20px;
+}
+
 a {
     text-decoration: none;
     font-size: 18px;
