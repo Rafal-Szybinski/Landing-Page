@@ -115,11 +115,37 @@ body {
     font-size: 36px;
     font-weight: lighter;
     align-items: center;
-    padding: 150px 300px;
+    padding: 150px 350px;
 }
 
 .quotes > .person {
     align-self: flex-end;
+}
+
+.sign-up {
+    display: flex;
+    margin: 100px 300px;
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 40px 100px;
+    color: #E5E7EB;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sign-up > h2 {
+    color: #F9FAF8;
+}
+
+.sign-2 {
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    color: #F9FAF8;
+    border-radius: 12px;
+    font-size: 18px;
+    padding: 10px 0px;
+    width: 125px;
+    cursor: pointer;
 }
 
 a {
